@@ -1,18 +1,13 @@
 ---
-title: 🪴 Quartz v2.1
+title: "Home"
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Beautiful, out-of-the-box website creation and deployment
-3. Display for backlinks of each note
-4. A customizable graph view
-5. Endlessly powerful page and theme customization
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+# Welcome to Mr.Ghost Tutorials!
 
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+This is MrGhost tutorial Blog here you can learn many things about MrGhost and his favorite Video Games. 
+On this page are also all the explanations about how to use what MrGhost provides in the correct and best way possible. 
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+
+## How to  
+
+1. [Install a Minecraft Texturepack](Install%20a%20Minecraft%20Texturepack.md)
